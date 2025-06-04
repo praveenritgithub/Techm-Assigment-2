@@ -1,6 +1,8 @@
 # Techm-Assigment-2
 Four Coding Problem Solutions Using SpringBoot
-problem statement -1
+
+
+----Problem Statement -1  --------
 
 Problem Statement:  Employee Attendance Tracker
 Develop an application to track employee attendance within an organization. The system should allow employees to mark attendance and managers to view attendance reports.
@@ -33,7 +35,7 @@ Provide a simple UI or REST API endpoints for functionalities.
 
 
 
-PROBLEM STATEMENT-2
+---------PROBLEM STATEMENT-2
 
 
 Problem Statement: : E-commerce Product Catalog
@@ -67,7 +69,7 @@ Implement authentication and authorization with Spring Security (e.g., role-base
 Return appropriate HTTP status codes and error messages.
 
 
-PROBLEM STATEMENT-3
+------------PROBLEM STATEMENT-3
 
 Problem Statement:  Student Management System  
 Develop a Spring Boot application to manage student information for an educational institute. The system should allow the institute to add, update, delete, and view student records efficiently, along with searching and filtering capabilities.
@@ -99,7 +101,7 @@ Use Thymeleaf templates for the UI.
 Implement error handling and display user-friendly messages.
 
 
-PROBLEM STATEMENT-4
+-----------PROBLEM STATEMENT-4
 
 Problem Statement:  Library Management System
 Build a system to manage library operations including book lending, returns, and inventory management.
